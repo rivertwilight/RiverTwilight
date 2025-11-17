@@ -1,11 +1,5 @@
 <div>
 
-[![RiverTwilight's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rivertwilight&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-</div>
-
-<div>
-
 I write code to craft. Started when I was 14, though that matters less than what I've actually built. You can find some of my crafts at [ygeeker.com](https://www.ygeeker.com).
 
 Open source isn't just a buzzword to me - I contribute because good code should be shared and built upon. That's how progress happens.
