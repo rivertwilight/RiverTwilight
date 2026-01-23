@@ -14,4 +14,4 @@ And since you're reading this: do things that matter to you. Most people spend t
 
 <img src="https://komarev.com/ghpvc/?username=rivertwilight" height="20" width="118" align="right">
 
-<code>[🎨 Pixiv](https://www.pixiv.net/en/users/35572742)</code> <code>[✍️ Blog](https://rene.wang)</code> <code>[📧 Email](mailto:contact@rene.wang)</code>
+<code>[✍️ Website](https://rene.wang)</code> <code>[🎨 Pixiv](https://www.pixiv.net/en/users/35572742)</code> <code>[📧 Email](mailto:contact@rene.wang)</code>
