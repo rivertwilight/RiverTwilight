@@ -9,9 +9,3 @@ If you have ideas, email me. Simple ideas executed well beat complicated ideas e
 And since you're reading this: do things that matter to you. Most people spend their lives doing what they think they're supposed to do instead of what interests them. Don't fall into that trap.
 
 </div>
-
-<hr />
-
-<img src="https://komarev.com/ghpvc/?username=rivertwilight" height="20" width="118" align="right">
-
-<code>[✍️ Website](https://rene.wang)</code> <code>[🎨 Pixiv](https://www.pixiv.net/en/users/35572742)</code> <code>[📧 Email](mailto:contact@rene.wang)</code>
