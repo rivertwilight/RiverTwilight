@@ -12,12 +12,6 @@ And since you're reading this: do things that matter to you. Most people spend t
 
 <hr />
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,js,ts,flutter,html,css,sass,mui,tailwind,docker,vercel,supabase)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=yarn,go,python,unity,androidstudio,godot,blender,ps,tensorflow,notion,figma)](https://skillicons.dev)
-
-<hr />
-
 <img src="https://komarev.com/ghpvc/?username=rivertwilight" height="20" width="118" align="right">
 
 <code>[🎨 Pixiv](https://www.pixiv.net/en/users/35572742)</code> <code>[✍️ Blog](https://rene.wang)</code> <code>[📧 Email](mailto:contact@rene.wang)</code>
